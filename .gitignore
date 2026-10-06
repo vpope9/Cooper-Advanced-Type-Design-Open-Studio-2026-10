@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+_local
+_ttf
+_otf
+_vf
+.DS_Store
+
+.DS_Store
+
